@@ -1,4 +1,4 @@
-## Informatic 1 in HEVS - Rémi Heredero
+## Informatic 1 in HEVS - Theory - Rémi Heredero
 
 All my work for course during the first semester in engineering school of Wallis for Industrial Systems.
 

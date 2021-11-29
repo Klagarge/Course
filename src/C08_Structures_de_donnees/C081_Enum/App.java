@@ -1,5 +1,8 @@
 package C08_Structures_de_donnees.C081_Enum;
 
+/**
+ * @author Rémi Heredero
+ */
 enum Glace {VANILLE, CHOCOLAT, FRAISE, MANGUE};
 // enum Cat {MINOU, CHATONS, CONNAIS_PAS_D_AUTRES, TOTO};
 public class App {

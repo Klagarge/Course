@@ -1,5 +1,8 @@
 package C08_Structures_de_donnees.C082_Tableaux;
 
+/**
+ * @author Rémi Heredero
+ */
 public class Exercice1 {
     public static void main(String[] args) {
         
@@ -14,6 +17,5 @@ public class Exercice1 {
         for (String string : bar) {
             System.out.println(string);
         }
-
     }
 }

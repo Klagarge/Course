@@ -25,6 +25,7 @@ public class App {
                 case FRAISE:
                     System.out.println("Fraise");
                     favorite = Glace.MANGUE;
+                    break;
                     
                 default:
                     System.out.println("Mangue");
